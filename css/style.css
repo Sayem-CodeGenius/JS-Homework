@@ -1,0 +1,41 @@
+/* CSS COMMON START */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1170px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* CSS COMMON END */
+
+img{
+    width: 100%;
+}
+button{
+    background-color:rgb(26, 25, 22);
+    border-color: whitesmoke;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border-radius: 50px;
+    
+}
